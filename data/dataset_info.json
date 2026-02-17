@@ -1,0 +1,16 @@
+{
+  "medqa_sft": {
+    "file_name": "medqa_sft.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "medqa_textbooks": {
+    "file_name": "textbooks_pretrain.jsonl",
+    "columns": {
+      "prompt": "text"
+    }
+  }
+}
